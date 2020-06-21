@@ -11,4 +11,4 @@ def mul2(a, d):
      return a * b
 
 def div(a, d):
-     return a // b
+     return a // b # 주석
