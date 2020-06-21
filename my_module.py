@@ -10,3 +10,5 @@ def mul(a, d):
 def mul2(a, d):
      return a * b ## 주석
 
+def div(a, d):
+     return a // b
