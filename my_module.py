@@ -7,3 +7,6 @@ def sub(a, d):
 def mul(a, d):
      return a * b
 
+def mul2(a, d):
+     return a * b
+
